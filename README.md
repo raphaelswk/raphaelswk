@@ -4,7 +4,7 @@ Software Engineer, based in Dublin/Ireland, enthusiast of the best web & mobile 
 Here you will be able to see technologies I am currently studyding.
 
 ## 🔧 Technologies
-C#. .Net Core, TypeScript, React and Node.js
+C#, .Net Core, TypeScript, React and Node.js
 
 [![Linkedin Badge](https://img.shields.io/badge/-Raphael%20Socolowski-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphaelswk/)](https://www.linkedin.com/in/raphaelswk/) 
 [![Gmail Badge](https://img.shields.io/badge/-raphael.swk@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raphael.swk@gmail.com)](mailto:raphael.swk@gmail.com)
