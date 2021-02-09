@@ -1,7 +1,7 @@
 # Raphael Socolowski
 
 Software Engineer, based in Dublin/Ireland, enthusiast of the best web & mobile development technologies and passionate by programming and learning new things.
-Here you will be able to see technologies I am currently studyding.
+Here you will be able to see technologies I am currently studying.
 
 ## 🔧 Technologies
 C#, .Net Core, TypeScript, React and Node.js
